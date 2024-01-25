@@ -1,0 +1,18 @@
+24/01/2024
+
+NLTK (Natural Language Toolkit):
+	- Herramienta fundamental en el NLP
+SpaCy: 
+	- Alternativa eficiente y potente a NLTK
+	- Compleja de emplear
+	- Recomendada para el lenguaje español
+CoreNLP: 
+	- Poco intuitiva
+	- Análisis lingüístico profundo y detallado en textos
+TextBlob: 
+	- Muy intuitiva y accesible
+Gensim: 
+	- Extrae palabras clave que proporcionan una idea clara sobre el contenido de un texto
+Word2vec
+Wordcloud:
+	- Visualización gráfica de datos de texto

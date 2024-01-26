@@ -1,0 +1,24 @@
+26/01/2024
+
+Son modelos que:
+	- Representan el lenguaje como una distribución probabilística
+	- Parten del aprendizaje profundo
+	- Contienen una gran cantidad de parámetros (>=10^9)
+	- Entrenados con gran cantidad de texto sin etiquetar (e.g. Wikipedia)
+
+
+Embebimientos (embeddings): 
+    Encontrar representaciones vectoriales de los tokens con propiedades matemáticas interesantes
+    (As the model processes this set of words, it produces a vector — or list of values — and adjusts 
+    it based on each word’s proximity to work in the training data. This vector is known as a word embedding.)
+
+
+La arquitectura transformer:
+    The dominant sequence transduction models are based on complex recurrent or convolutional neural networks
+    in an encoder-decoder configuration. The best performing models also connect the encoder and
+    decoder through an attention mechanism. 
+    We propose a new simple network architecture, the Transformer, based solely on attention mechanisms [...]
+
+
+Explicación sobre el funcionamiento de la arquitectura transformer (ingles)
+    https://ig.ft.com/generative-ai/

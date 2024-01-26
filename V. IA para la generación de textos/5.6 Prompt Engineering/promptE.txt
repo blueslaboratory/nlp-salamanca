@@ -1,0 +1,11 @@
+26/01/2024
+
+Hay 2 maneras de lograr buenos resultados con LLM:
+    1. Fine-tuning
+    2. Prompt engineering
+
+prompt engineering --> googleador profesional de LLMs
+
+Patrón de diseño: 
+Solucion general y reutilizable para un problema que ocurre de forma comun
+para un contexto dado en el diseño de software.

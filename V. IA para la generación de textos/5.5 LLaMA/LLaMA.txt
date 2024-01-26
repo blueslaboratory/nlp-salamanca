@@ -1,0 +1,16 @@
+26/01/2024
+
+Julio de 2023: Meta libera LLaMA-2, permitiendo incluso usos comerciales
+Explicitamente declara no haber utilizado los datos de META
+
+RAM necesaria
+Modelo  Modelo original     Modelo cuantizado
+7B      13 GB               3.9 GB
+13B     24 GB               7.8 GB
+30B     60 GB               19.5 GB
+65B     120 GB              38.5 GB
+
+
+https://ai.meta.com/llama/
+github.com/ggerganov/llama.
+https://huggingface.co/clibrain

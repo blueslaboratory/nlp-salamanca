@@ -1,0 +1,73 @@
+31/01/2024
+
+6.3 LLM y correción de textos
+
+Meld: Aplicación de escritorio para comparar ficheros o textos
+https://meldmerge.org/
+
+LanguageTool: Herramienta de corrección
+https://languagetool.org/es
+
+CLARA: Herramienta para evaluar la claridad de un texto
+https://clara.comunicacionclara.com/
+
+
+
+6.4 Modelos de texto a voz
+
+ElevenLabs
+https://elevenlabs.io/
+
+Speechify
+https://speechify.com/es/
+
+Piper (herramienta libre de texto a voz)
+https://github.com/rhasspy/piper
+
+
+
+6.5 Transcripcion de audio: Whisper
+
+Whisper: Página oficial del modelo
+https://openai.com/research/whisper
+
+Whisper-WebUI: Interfaz para usar Whisper de forma sencilla
+https://github.com/jhj0517/Whisper-WebUI
+
+
+
+6.6 Stable Diffusion
+
+- Dall·E
+- Midjourney
+
+- Stable Diffusion: modelo de difusión latente:
+Se aprovecha de la idea de eliminar el ruido paso a paso, 
+pero con un espacio latente que reduzca la dimensionalidad.
+
+Tiene 3 componentes fundamentales:
+1. Autoencoder variacional (VAE): para reducir la dimensionalidad.
+2. UNet: para aprender el proceso de eliminación de ruido.
+3. Embebimiento textual: para representar texto en un formato compatible
+con UNet. La release reutiliza CLIP, el paper reutiliza BERT.
+
+https://huggingface.co/spaces/stabilityai/stable-diffusion
+https://beta.dreamstudio.ai/home
+
+https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+
+
+6.7 Stable Diffusion aplicado
+
+civitAI: Comunidad de usuarios de Stable Diffusion
+https://civitai.com/
+
+Stable Diffusion: Demo en línea sencilla
+https://huggingface.co/spaces/stabilityai/stable-diffusion
+
+Stable Diffusion web UI ("Automatic1111"): Herramienta para uso fácil pero potente de Stable Diffusion
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+civitAI: Comunidad de usuarios de Stable Diffusion
